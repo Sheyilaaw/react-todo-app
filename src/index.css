@@ -12,3 +12,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.collection-item span .red {
+  font-weight: 300;
+  font-size: 0.8rem;
+  color: #fff;
+  background-color: #26a69a;
+  border-radius: 2px;
+}
